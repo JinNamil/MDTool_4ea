@@ -24,8 +24,7 @@ To run this project, the following requirements must be met:
 2. Clone this repository.
 
     ```bash
-    git clone https://github.com/your-repo/mcu-firmware-tool.git
-    cd mcu-firmware-tool
+    git clone https://github.com/JinNamil/MDTool_4ea
     ```
 
 3. Install the required Python dependencies.
